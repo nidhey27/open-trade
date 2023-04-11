@@ -1,2 +1,5 @@
 node_modules/
 .vercel
+
+error.log
+combined.log
