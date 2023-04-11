@@ -33,8 +33,18 @@ exports.getData = async (req, res, next) => {
         data: []
       })
     }
+    // period: 'd'  // 'd' (daily), 'w' (weekly), 'm' (monthly), 'v' (dividends only)
+    const PERIOD = ["d", "w", "m", "v"]
 
     var period = body.period || 'd'
+
+    if(!PERIOD.includes(body.period) && body.period != undefined){
+      return res.status(400).json({
+        message: `Invalid period value - ${PERIOD}`,
+        error: null,
+        data: []
+      })
+    }
 
     // <DOMAIN_NAME>/api/v1/historical-data?symbol=AAPL&from=2012-01-01&to=2012-12-31
     await yahooFinance.historical({
@@ -42,7 +52,7 @@ exports.getData = async (req, res, next) => {
       from: body.from,
       to: body.to,
       period: period
-      // period: 'd'  // 'd' (daily), 'w' (weekly), 'm' (monthly), 'v' (dividends only)
+
     }, function (err, quotes) {
       if (err != null) {
         return res.status(500).json({
@@ -59,7 +69,7 @@ exports.getData = async (req, res, next) => {
         data: quotes
       })
     });
-  }catch(err) {
+  } catch (err) {
     return res.status(500).json({
       message: null,
       error: err,

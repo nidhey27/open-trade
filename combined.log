@@ -1,0 +1,96 @@
+11-04-23 11:19:56 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:20:45 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:22:59 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:23:00 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:23:00 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39017 "-" "-"
+
+11-04-23 11:23:26 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:23:26 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:23:26 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39019 "-" "-"
+
+11-04-23 11:26:14 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:26:15 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:26:15 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39022 "-" "-"
+
+11-04-23 11:26:56 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:26:57 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:26:57 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39019 "-" "-"
+
+11-04-23 11:27:18 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:27:18 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:27:18 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39018 "-" "-"
+
+11-04-23 11:27:46 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:27:47 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:27:47 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39020 "-" "-"
+
+11-04-23 11:29:32 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:29:33 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:29:33 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39018 "-" "-"
+
+11-04-23 11:29:52 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:29:53 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:29:53 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39021 "-" "-"
+
+11-04-23 11:30:09 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:30:10 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:30:10 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39021 "-" "-"
+
+11-04-23 11:33:23 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:33:45 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:33:45 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:33:45 +0000] "GET /api/v1/historical-data?symbol=TCS HTTP/1.1" 200 32611 "-" "-"
+
+11-04-23 11:33:54 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:33:55 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:33:55 +0000] "GET /api/v1/historical-data?symbol=TCS HTTP/1.1" 200 32611 "-" "-"
+
+11-04-23 11:36:49 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:36:50 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:36:50 +0000] "GET /api/v1/historical-data?symbol=TCS HTTP/1.1" 200 32611 "-" "-"
+
+11-04-23 11:38:51 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:38:52 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:38:52 +0000] "GET /api/v1/historical-data?symbol=TCS HTTP/1.1" 200 32611 "-" "-"
+
+11-04-23 11:39:50 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:40:16 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:40:17 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:40:17 +0000] "GET /api/v1/historical-data?symbol=TCS HTTP/1.1" 200 32611 "-" "-"
+
+11-04-23 11:40:48 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:40:49 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:40:49 +0000] "GET /api/v1/historical-data?symbol=TCS HTTP/1.1" 200 32611 "-" "-"
+
+11-04-23 11:41:10 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:41:11 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:41:11 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39021 "-" "-"
+
+11-04-23 11:41:46 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:41:48 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:41:48 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39018 "-" "-"
+
+11-04-23 11:41:48 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:41:48 +0000] "GET /api/v1/historical-data HTTP/1.1" 400 55 "-" "-"
+
+11-04-23 11:42:37 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:42:38 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:42:38 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39020 "-" "-"
+
+11-04-23 11:42:38 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:42:38 +0000] "GET /api/v1/historical-data HTTP/1.1" 400 55 "-" "-"
+
+11-04-23 11:42:38 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:42:38 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&period=day HTTP/1.1" 400 67 "-" "-"
+
+11-04-23 11:43:48 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:43:49 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:43:49 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39022 "-" "-"
+
+11-04-23 11:43:49 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:43:49 +0000] "GET /api/v1/historical-data HTTP/1.1" 400 55 "-" "-"
+
+11-04-23 11:43:49 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:43:49 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&period=day HTTP/1.1" 400 67 "-" "-"
+
+11-04-23 11:44:10 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:44:11 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:44:11 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39017 "-" "-"
+
+11-04-23 11:44:11 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:44:11 +0000] "GET /api/v1/historical-data HTTP/1.1" 400 55 "-" "-"
+
+11-04-23 11:44:11 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:44:11 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&period=day HTTP/1.1" 400 67 "-" "-"
+
+11-04-23 11:45:12 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:45:14 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:45:14 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&from=2022-04-11&to=2023-04-11&period=w HTTP/1.1" 200 8409 "-" "-"
+
+11-04-23 11:45:15 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:45:15 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39020 "-" "-"
+
+11-04-23 11:45:15 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:45:15 +0000] "GET /api/v1/historical-data HTTP/1.1" 400 55 "-" "-"
+
+11-04-23 11:45:15 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:45:15 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&period=day HTTP/1.1" 400 67 "-" "-"
+
+11-04-23 11:46:04 [info]: Open Trade Service Started at PORT: 3000
+11-04-23 11:46:05 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:46:05 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&from=2022-04-11&to=2023-04-11&period=w HTTP/1.1" 200 8409 "-" "-"
+
+11-04-23 11:46:05 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:46:05 +0000] "GET /api/v1/historical-data?symbol=TCS.NS HTTP/1.1" 200 39018 "-" "-"
+
+11-04-23 11:46:05 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:46:05 +0000] "GET /api/v1/historical-data HTTP/1.1" 400 55 "-" "-"
+
+11-04-23 11:46:05 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:46:05 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&period=day HTTP/1.1" 400 67 "-" "-"
+
