@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message Image {
+  bytes data = 1;
+}
+
+service ImageService {
+  rpc SendImage(Image) returns (Image);
+}

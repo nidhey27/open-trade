@@ -94,3 +94,4 @@
 
 11-04-23 11:46:05 [info]: ::ffff:127.0.0.1 - - [11/Apr/2023:11:46:05 +0000] "GET /api/v1/historical-data?symbol=TCS.NS&period=day HTTP/1.1" 400 67 "-" "-"
 
+10-05-23 08:24:14 [info]: Open Trade Service Started at PORT: 3000
